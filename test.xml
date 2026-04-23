@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <metadata>
+        <source>mobile_app</source>
+        <timestamp>2026-04-23T10:30:00Z</timestamp>
+    </metadata>
+
+    <items>
+        <item>
+            <id>101</id>
+            <title>Test Product 1</title>
+            <price currency="INR">999.99</price>
+            <inStock>true</inStock>
+        </item>
+
+        <item>
+            <id>102</id>
+            <title>Test Product 2</title>
+            <price currency="INR">1499.50</price>
+            <inStock>false</inStock>
+        </item>
+    </items>
+</data>
